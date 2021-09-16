@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Spyder2948
+- 👀 I’m interested in Data Structure and Algorithms, Full Stack Web Development, Machine Learning, Quantum Computing
+- 🌱 I’m currently learning Data Structure and Algorithms and Full Stack Web Development
+- 📫 How to reach me: amarnathpatro14@gmail.com                      
